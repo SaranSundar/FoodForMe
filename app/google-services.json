@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "556499815244",
+    "firebase_url": "https://foodforme-ca714.firebaseio.com",
+    "project_id": "foodforme-ca714",
+    "storage_bucket": "foodforme-ca714.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556499815244:android:b4fd59e02c1f6464",
+        "android_client_info": {
+          "package_name": "com.sszg.foodforme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556499815244-cg7ir6pbot5m0rlnjb63qcqh7fo4soc0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sszg.foodforme",
+            "certificate_hash": "1e1da8053ba60d1e9d325ef7a88548c5d046aa76"
+          }
+        },
+        {
+          "client_id": "556499815244-b0etgqcth598uq2uadgo89kbajl0tmf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnFdK8Al4zl0XCpfUhqc1imPLP7gskZtg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556499815244-b0etgqcth598uq2uadgo89kbajl0tmf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
